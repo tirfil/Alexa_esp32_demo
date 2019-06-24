@@ -17,6 +17,7 @@ Sketch->Include ZIP library
 6) Open Serial monitor to have debug information.  
 7) Compile and Upload to Wemos D1 R32 or ESPduino32 board : Board should connect to your wifi router.  
 8) First time: Ask Alexa : "Find connected devices"  
-9) Test:  Ask Alexa : "Turn on led", "Turn off led", "Tun on flash", "Turn off flash" ....  
+9) Test:  Ask Alexa : "Turn on led", "Turn off led", "Turn on flash", "Turn off flash" : Built-in led should change ...
+
 
 
